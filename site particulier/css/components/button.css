@@ -1,0 +1,17 @@
+
+.btn-blue{
+	background-color: #A67466;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: bold;
+} 
+.btn-red{
+	background-color: #A58880;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: bold;
+}
